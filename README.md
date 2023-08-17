@@ -1,2 +1,2 @@
 # UmaMaya.ai
-Evlution and Learning Math for Middle and High School students
+Evaluate Math for Middle and High School students
